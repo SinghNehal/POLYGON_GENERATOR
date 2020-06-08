@@ -1,5 +1,7 @@
 # POLYGON_GENERATOR
 This a simple java swing application , that generates a polygon using GUI and tells its basic information, like lengths of sides, area.
+You have to first run the project, a window will appear. We need to click the vertices on screen in order to make a polygon. After a polygon is made, We can click on "Get Info" to get information about length of each side, and area of polygon. Also if you try to make a invalid a polygon by intersecting and making cut from a side to another, A dialog box will appear and warn you and restrict tha action.
+
 
             I. You can download the latest release of the JDK for free from http://www.oracle.com/technetwork/java/javase/downloads/index.html.
 
